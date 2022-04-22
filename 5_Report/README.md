@@ -1,0 +1,2 @@
+In this project we program a microcontroller atmega328 for runnig LED with delay.
+The corresponding pin logic D1 is HIGH-5V,and LOW-0V.When the relay is turn on ,the buzzer will make sounfd and the LEDs will start glowing.

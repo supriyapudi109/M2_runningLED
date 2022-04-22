@@ -1,0 +1,1 @@
+This project is on running LEDs using atmega328 microcontroller. when the relay is turn on the buzzer gets activated and LEDs will start glowing.

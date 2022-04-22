@@ -1,0 +1,2 @@
+atmega328 is an 8bit AVR based microcontroller , here we implemented simple LED blinking program.
+In this circuit we use atmega328, relay,buzzer and 8 LEDs. Once the hex file is burn onto the circuit and we run the circuit, we can see the LEDs glowing . 
